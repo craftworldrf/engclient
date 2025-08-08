@@ -1,0 +1,1 @@
+node delete-files-for-cehck-updater.js
